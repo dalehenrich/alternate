@@ -32,7 +32,7 @@ but the packages are structured into three separate project groups:
 ```
 
 The **core** directory contains the *core* packages
-([*core* README.md file](alternate/core/README.md))
+([*core* README.md file](core/README.md))
 , the **platform** directory contains the *platform* packages
 ([*platform* README.md file](platform/README.md)), and
 the **tests** contains the *test* packages
