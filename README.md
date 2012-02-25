@@ -19,15 +19,18 @@ but the packages are structured into three separate project groups:
 ```
 +-alternate
   +-core/
+  | +-metacello.st
   | +-Sample-Core.pkg\
   +-doc/
   +-platform/
+  | +-metacello.st
   | +-Sample-Platform.gemstone.pkg\
   | +-Sample-Platform.pharo.pkg\
   | +-Sample-Platform.squeak.pkg\
   +-license.txt
   +-README.md
   +-tests/
+  | +-metacello.st
   | +-Sample-Tests.pkg\
 ```
 
