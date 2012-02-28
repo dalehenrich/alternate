@@ -34,13 +34,4 @@ but the packages are structured into three separate project groups:
   | +-Sample-Tests.pkg\
 ```
 
-The **core** directory contains the *core* packages
-([*core* README.md file](core/README.md))
-, the **platform** directory contains the *platform* packages
-([*platform* README.md file](platform/README.md)), and
-the **tests** contains the *test* packages
-([*tests* README.md file](tests/README.md)).
-
-The **doc** directory contains directories for **examples**, **scripts**, and **tutorials**. 
-
 [1]: https://github.com/dalehenrich/sample
