@@ -8,7 +8,7 @@ baseline: spec
         configuration: 'External'
           with: [ 
               spec
-                version: #'otto';
+                version: '1.0.0';
                 loads: 'External Core';
                 repository: 'http://ss3.gemtalksystems.com/ss/external' ];
         baseline: 'Sample'
