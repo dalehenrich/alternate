@@ -1,0 +1,14 @@
+{
+	"category" : "Alternate-Tests",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AlternateTest",
+	"pools" : [
+		 ],
+	"super" : "ExampleTest",
+	"type" : "normal" }

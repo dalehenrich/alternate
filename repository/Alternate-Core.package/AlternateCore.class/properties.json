@@ -1,0 +1,14 @@
+{
+	"category" : "Alternate-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "AlternateCore",
+	"pools" : [
+		 ],
+	"super" : "ExampleCore",
+	"type" : "normal" }
