@@ -9,7 +9,7 @@ baseline: spec
           with: [ 
               spec
                 version: '1.0.0';
-                loads: 'External Core';
+                loads: 'External-Core';
                 repository: 'http://ss3.gemtalksystems.com/ss/external' ];
         baseline: 'Sample'
           with: [ spec repository: 'github://dalehenrich/sample:otto/repository' ];
